@@ -10,3 +10,4 @@ A simple movie analysis using python and csv. It efficiently describes the data 
 
 https://github.com/user-attachments/assets/33dc1836-76c8-407e-b53f-73391e91a840
 
+Make sure to add the css file while executing the program. It can be executed with python or through google colab.
